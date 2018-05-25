@@ -1,0 +1,5 @@
+#
+#Thu May 10 14:20:31 IST 2018
+com.task.spring.entity.Book=javax.xml.bind.annotation.XmlAccessorType,javax.persistence.Entity,javax.persistence.Table,javax.xml.bind.annotation.XmlRootElement
+com.task.spring.entity.BookType=javax.persistence.Entity,javax.persistence.Table
+com.task.spring.entity.Person=javax.persistence.Entity,javax.persistence.Table
